@@ -3,8 +3,6 @@ package xmlvalidatorlibrary;
 import java.util.Stack;
 
 public class SimpleXmlValidator {
-    //Please implement this method
-    //feel free to add other classes/methods if you want
     public static boolean determineXml(String xml)
     {
         Stack<String> stack = new Stack<>();
